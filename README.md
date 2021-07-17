@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @shirshrem
-- 🌱 I’m currently 2nd year student of B.S Computer Science at Tel Aviv University
-- I’m looking for a software development student position.
+- 🌱 I’m currently 2nd year student of B.S Computer Science at Tel Aviv University 👩🏻‍🎓
+- 👩🏻‍💻 I’m looking for a software development student position!
 - 📫 How to reach me - shir.shrem@gmail.com
