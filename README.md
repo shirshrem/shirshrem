@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @shirshrem
-- 🌱 I’m currently 3nd year student of B.S Computer Science at Tel Aviv University 👩🏻‍🎓👩🏻‍💻  
-- 📫 How to reach me - shir.shrem@gmail.com
+
